@@ -55,4 +55,17 @@ Players can make moves on a 3x3 grid, aiming to align three symbols (horizontal,
 
 ---
 
+## **Technologies**
+- **Language**: Java  
+- **Development Tools**:  
+  - Java Development Kit (JDK)  
+  - Command-line Interface (CLI)  
+- **Core Concepts**:  
+  - Object-Oriented Programming (OOP)  
+  - Console-based Input/Output  
+  - AI Implementation with Randomization and Strategy
+
+## License
+
+This project is licensed under the MIT License.
 
